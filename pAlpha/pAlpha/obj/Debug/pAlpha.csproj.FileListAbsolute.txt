@@ -30,6 +30,5 @@ C:\GitHub\the-lab\pAlpha\pAlpha\bin\System.Web.Razor.xml
 C:\GitHub\the-lab\pAlpha\pAlpha\bin\System.Web.WebPages.xml
 C:\GitHub\the-lab\pAlpha\pAlpha\bin\System.Web.WebPages.Deployment.xml
 C:\GitHub\the-lab\pAlpha\pAlpha\bin\System.Web.WebPages.Razor.xml
-C:\GitHub\the-lab\pAlpha\pAlpha\obj\Debug\pAlpha.csprojResolveAssemblyReference.cache
 C:\GitHub\the-lab\pAlpha\pAlpha\obj\Debug\pAlpha.dll
 C:\GitHub\the-lab\pAlpha\pAlpha\obj\Debug\pAlpha.pdb
