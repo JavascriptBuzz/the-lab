@@ -1,7 +1,7 @@
 ﻿define(function() {
     var welcome = function () {
-        this.displayName = 'Welcome to prototype A!';
-        this.description = 'Prototype A is a cross-device, cross-platform Single Page Application written in JavaScript.';
+        this.displayName = 'Welcome to prototype Alpha!';
+        this.description = 'Prototype Alpha is a cross-device, cross-platform Single Page Application written in JavaScript.';
         this.features = [
             'Clean MV* Architecture',
             'JS & HTML Modularity',
